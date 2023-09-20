@@ -2,6 +2,7 @@
 
 Cylinder::Cylinder()
 {
+	radius = 0;
 }
 
 Cylinder::~Cylinder()
